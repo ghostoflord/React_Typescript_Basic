@@ -18,7 +18,7 @@ const About = () => {
                     <h3 className="text-center mb-md-5 mb-2">Know Who <span className="brand-red">I'M</span> </h3>
                     <div>
                         <div>
-                            <p> Hi Everyone, I am HoiDanIT from Hanoi, VietNam.</p>
+                            <p> Hi Everyone, I am Ghost from Hanoi, VietNam.</p>
 
                             <p> I am currently employed as a a freelance dev (start-up).</p>
 
